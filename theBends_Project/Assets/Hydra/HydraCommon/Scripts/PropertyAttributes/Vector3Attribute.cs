@@ -1,5 +1,5 @@
 // <copyright file=Vector3Attribute company=Hydra>
-// Copyright (c) 2015 All Rights Reserved
+// Copyright (c) 2016 All Rights Reserved
 // </copyright>
 // <author>Christopher Cameron</author>
 
