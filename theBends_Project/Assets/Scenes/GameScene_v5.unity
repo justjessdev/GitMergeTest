@@ -3539,8 +3539,8 @@ Transform:
   m_LocalPosition: {x: -37, y: 0, z: 88}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 777086754}
   - {fileID: 1310537621}
+  - {fileID: 777086754}
   - {fileID: 1821196966}
   m_Father: {fileID: 155677429}
   m_RootOrder: 1
@@ -8219,16 +8219,16 @@ Transform:
   - {fileID: 1373540036}
   - {fileID: 939076338}
   - {fileID: 722900445}
+  - {fileID: 421819685}
   - {fileID: 1022085909}
   - {fileID: 106697647}
+  - {fileID: 1842041913}
   - {fileID: 1732209047}
   - {fileID: 527500135}
-  - {fileID: 421819685}
-  - {fileID: 1483156652}
+  - {fileID: 1869615431}
   - {fileID: 265410100}
   - {fileID: 1945798511}
-  - {fileID: 1842041913}
-  - {fileID: 1869615431}
+  - {fileID: 1483156652}
   - {fileID: 1243007035}
   - {fileID: 581406991}
   m_Father: {fileID: 1989373116}
@@ -15321,7 +15321,7 @@ Transform:
   - {fileID: 1842937489}
   - {fileID: 838836724}
   m_Father: {fileID: 1989373116}
-  m_RootOrder: 7
+  m_RootOrder: 5
 --- !u!4 &560249395 stripped
 Transform:
   m_PrefabParentObject: {fileID: 470512, guid: aff7a7c158e5e95419ab092d42577ce5, type: 2}
@@ -34478,7 +34478,7 @@ Transform:
   - {fileID: 748667015}
   - {fileID: 204666491}
   m_Father: {fileID: 106906724}
-  m_RootOrder: 1
+  m_RootOrder: 0
 --- !u!4 &1312131309 stripped
 Transform:
   m_PrefabParentObject: {fileID: 478652, guid: 114b771598e0153459799de0400d5206, type: 2}
@@ -49964,7 +49964,7 @@ Transform:
   - {fileID: 1906242051}
   - {fileID: 697229545}
   m_Father: {fileID: 1989373116}
-  m_RootOrder: 5
+  m_RootOrder: 4
 --- !u!1 &1896021777
 GameObject:
   m_ObjectHideFlags: 0
@@ -51998,10 +51998,10 @@ Transform:
   - {fileID: 483476396}
   - {fileID: 622732524}
   - {fileID: 564727680}
-  - {fileID: 746016206}
   - {fileID: 1895809633}
-  - {fileID: 838236642}
   - {fileID: 560210807}
+  - {fileID: 746016206}
+  - {fileID: 838236642}
   m_Father: {fileID: 155677429}
   m_RootOrder: 3
 --- !u!4 &1991523300 stripped
